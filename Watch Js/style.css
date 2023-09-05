@@ -1,0 +1,37 @@
+#abc{
+    background-color: #1e3b5c;
+    text-align: center;
+    color: aliceblue;
+    background-color: #0f3854;
+    background: radial-gradient(ellipse at center,  #0a2e38  0%, #000000 70%);
+    background-size: 100%;
+}
+#kkk{
+    font-family: 'Oswald', sans-serif;
+    background-color: #0c2435;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(240, 231, 231);
+    border-style: groove;
+    border: 2px solid wheat;
+    border-spacing: 20px ;
+    border-radius: 100px;
+    box-shadow: 0px 0px 50px black;
+    padding: 20px 0px ;
+    font-weight: 500;
+    margin: auto;
+    /* margin-top: 1%; */
+    /* font-family: 'Share Tech Mono', monospace; */
+    word-spacing: 55px ;
+}
+#lll{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    margin: auto;
+    /* margin-top: 15%; */
+}
+#zzz{
+    word-spacing: 100px;
+    font-size: 30px;
+}
